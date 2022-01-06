@@ -1,0 +1,14 @@
+
+.doctor-section-container{
+    background-color: #f9f7f8 !important;
+}
+.doctor-profile{
+    width: 50%;
+    margin: 5% auto;
+    border-radius: 71% 29% 53% 47% / 75% 73% 27% 25%  ;
+    border: 2px solid rgb(137, 209, 233);
+}
+.doctor-details{
+    background-color: rgb(241, 233, 241);
+    border-radius: 5% ;
+}

@@ -1,0 +1,20 @@
+.card-image{
+    width: 90%;
+    margin: 5% auto;
+    border: 2px solid rgb(137, 209, 233);
+}
+.card-image:hover{
+    border: 2px solid rgb(79, 183, 218);
+}
+.card-container{
+    background-color: rgb(239, 242, 243);
+}
+.card-container:hover{
+    background-color: rgb(234, 245, 248);
+}
+.regular-icon{
+    color: coral;
+}
+.time-icon{
+    color: rgb(5, 97, 20);
+}
